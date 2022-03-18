@@ -1,3 +1,6 @@
+# NOTE
+Patched with latest update. But probably still working with cracked Among Us versions. Try it yourself, gl.
+
 # amogus item changer
 Amogus Item Changer
 
